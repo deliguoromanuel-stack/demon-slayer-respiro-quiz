@@ -4,6 +4,10 @@ Un quiz interattivo in italiano ispirato a *Demon Slayer*. Dieci domande sulla p
 
 > **Progetto fan non ufficiale.** Non è affiliato né approvato dai titolari di *Demon Slayer*.
 
+## Repository e sito
+
+Il link della **repository GitHub** mostra i file del progetto e questo README. Per giocare online serve il link separato di **GitHub Pages**. Dopo aver attivato Pages nelle impostazioni della repository, scegli `main` e `/(root)` come sorgente: GitHub pubblicherà `index.html` come pagina iniziale del quiz.
+
 ## Cosa puoi fare
 
 - Rispondere a **10 domande**, una alla volta, tornando indietro senza perdere le scelte.
