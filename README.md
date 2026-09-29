@@ -2,11 +2,13 @@
 
 Un quiz interattivo in italiano ispirato a *Demon Slayer*. Dieci domande sulla personalità conducono a una delle otto respirazioni, con un risultato personalizzato e una card da condividere. L’esperienza unisce illustrazioni originali, carta ruvida e animazioni in stile graffiti sketch.
 
+**[Apri il quiz online](https://deliguoromanuel-stack.github.io/demon-slayer-respiro-quiz/)**
+
 > **Progetto fan non ufficiale.** Non è affiliato né approvato dai titolari di *Demon Slayer*.
 
 ## Repository e sito
 
-Il link della **repository GitHub** mostra i file del progetto e questo README. Per giocare online serve il link separato di **GitHub Pages**. Dopo aver attivato Pages nelle impostazioni della repository, scegli `main` e `/(root)` come sorgente: GitHub pubblicherà `index.html` come pagina iniziale del quiz.
+Il link della **repository GitHub** mostra i file del progetto e questo README. Il pulsante qui sopra apre invece il **sito pubblicato su GitHub Pages**, con `index.html` come pagina iniziale del quiz.
 
 ## Cosa puoi fare
 
@@ -48,14 +50,9 @@ Il foglio illustrato in `assets/elemental-emblems.png` contiene i simboli in qua
 
 ## Pubblicazione con GitHub Pages
 
-Dopo aver caricato i file:
+Il sito è pubblicato dal branch `main`, cartella `/(root)`. Quando aggiorni i file nella repository, GitHub Pages pubblica la nuova versione. Il link della repository continua a mostrare il codice e il README; usa il pulsante **Apri il quiz online** per accedere al sito.
 
-1. Apri **Settings → Pages** nella repository.
-2. In **Build and deployment**, scegli **Deploy from a branch**.
-3. Seleziona il branch che contiene il sito, solitamente `main`, e la cartella **/(root)**.
-4. Salva e usa il link mostrato da GitHub al termine della pubblicazione.
-
-Consulta la [guida ufficiale di GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) per i dettagli. I link ai risultati sono condivisibili quando il sito è pubblicato e accessibile ai destinatari.
+Consulta la [guida ufficiale di GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) per le impostazioni di pubblicazione.
 
 ## Privacy e accessibilità
 
